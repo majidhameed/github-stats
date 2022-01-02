@@ -57,6 +57,7 @@ tr {
   fill: rgb(88, 96, 105);
   margin-right: 1ch;
   vertical-align: top;
+  fill: rgb(3,102,214);
 }
 
 @keyframes slideIn {
