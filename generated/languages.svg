@@ -27,8 +27,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: #7957d5;
+  fill: #7957d5;
 }
 
 ul {
@@ -100,7 +100,7 @@ div.ellipsis {
 <foreignObject>
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Most used languages</h2>
+<h2>Most Used Languages</h2>
 
 <div>
 <span class="progress">
