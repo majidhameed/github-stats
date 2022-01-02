@@ -85,11 +85,9 @@ div.ellipsis {
 }
 
 .lang {
-  font: 600 18px;
- 'Segoe UI', Ubuntu, Sans-Serif;
   font-weight: 600;
   margin-right: 4px;
-  color: #7957d5;
+  color: rgb(36, 41, 46);
 }
 
 .percent {
