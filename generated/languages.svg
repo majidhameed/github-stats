@@ -25,10 +25,9 @@ h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font-size: 16px;
   font-weight: 600;
-  color: #7957d5;
-  fill: #7957d5;
+  font-size: 14px;
+  color: rgb(3, 102, 214);
 }
 
 ul {
