@@ -69,7 +69,7 @@ caches statistics for your repositories. For more information, see issue
    Actions.
 5. If you want to ignore certain repos, add them (separated by commas) to a new
    secret—created as before—called `EXCLUDED`.
-6. Commit a small change to the repo (for example remove a newline from the end
+6. Commit a small change to the repo (for example: remove a newline from the end
    of the README) to force it to regenerate the stats images. The first time
    that it generates the stats images, it may take a ~very~ long time. It does 
    not generally take as long as the first time when it runs in the future.
