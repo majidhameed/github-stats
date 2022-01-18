@@ -14,13 +14,6 @@ interesting stats to display.
 
 ## Background
 
-When someone views a profile on GitHub, it is often because they are curious
-about a user's open source projects and contributions. Unfortunately, that
-user's stars, forks, and pinned repositories do not necessarily reflect the
-contributions they make to private repositories. The data likewise does not
-present a complete picture of the user's total contributions beyond the current
-year.
-
 This project aims to collect a variety of profile and repository statistics
 using the GitHub API. It then generates images that can be displayed in
 repository READMEs, or in a user's [Profile
